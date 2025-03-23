@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wesam Alalem from Tripoli, Libya.
 - 🏢 Working at [Libyan Spider, Ltd.](https://libyanspider.com)
-- 👀 I’m interested in php/mysql/vuejs
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in php/mysql/vuejs/python/AI
+- 🌱 I’m currently learning nodejs/python
 - 💞️ I’m looking to collaborate on php projects
 - 📫 Contact me: wesam at wesam dot ly
 - 🌍 [wesam.ly](https://wesam.ly)
